@@ -33,7 +33,7 @@
             tools:text="Home Team" />
 
         <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/tvHomeScore"
+            android:id="@+id/tvHomeTeamScore"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
@@ -66,7 +66,7 @@
             tools:srcCompat="@tools:sample/avatars" />
 
         <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/ivAwayTeamName"
+            android:id="@+id/tvAwayTeamName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/margin_default"
@@ -76,7 +76,7 @@
             tools:text="TextView" />
 
         <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/ivAwayTeamScore"
+            android:id="@+id/tvAwayTeamScore"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
