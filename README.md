@@ -9,4 +9,4 @@ App Android Nativo Simulação de Partidas.
      - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/emer09/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 
 3. Java e Kotlin Juntos!? Construindo Apps Android
-     - [release/java-e-kotlin-juntos-construindo-apps-android]()
+     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/emer09/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
